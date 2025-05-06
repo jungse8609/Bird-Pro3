@@ -21,7 +21,7 @@
   <tr>
     <td align="center" width="200px">
       <a href="https://github.com/jungse8609" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/83206119?v=4" alt="정국경 프로필" />
+        <img src="https://avatars.githubusercontent.com/u/69056797?v=4" alt="정국경 프로필" />
       </a>
     </td>
     <td align="center" width="200px">
